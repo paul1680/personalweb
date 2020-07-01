@@ -69,7 +69,7 @@ h2{
     height: 130px;
 }
 .foot{
-    background-image: url(header-bg.png);
+    background-image: url("header-bg.png");
     background-repeat: no-repeat;
     background-position: inherit;
     overflow: hidden;
@@ -92,7 +92,7 @@ li:hover{
     color: palevioletred;
 }
 .bonus{
-    background-image: url(biography-bg.png);
+    background-image: url("biography-bg.png");
     background-repeat: no-repeat;
     background-position: 100% 100%;
     overflow: hidden;
