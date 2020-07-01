@@ -66,9 +66,50 @@ h2{
 .last{
     color: rgb(43, 43, 39);
     background-color: hotpink;
+    height: 130px;
+}
+.foot{
+    background-image: url(header-bg.png);
+    background-repeat: no-repeat;
+    background-position: inherit;
+    overflow: hidden;
 }
 .foot{
     padding: 5%;
+
+}
+li{
+    font-size: 20px;
+    color: hotpink;
+}
+li:hover{
+    color: rebeccapurple;
+    font-size: 30px;
+    background-color: pink;
+}
+.dev{
+    font-size: 20px;
+    color: palevioletred;
+}
+.bonus{
+    background-image: url(biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    overflow: hidden;
+    padding-bottom: 80px;
+}
+.copy{
+    text-align: center;
+}
+.ex{
+    text-align: center;
+}
+.hover{
+    width: 30%;
+    margin-left: 10%;
+    margin-right: 10%;
+    float: left;
+    padding-bottom: 50px;
 }
 
 
