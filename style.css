@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+h2{
+    font-size: 40px;
+}
+.name{
+    font-size: 50px;
+    color: rgb(228, 51, 198);
+}    
+
+.halfwidth{
+    width: 30%;
+    margin-left: 10%;
+    margin-right: 10%;
+    float: left;
+    padding-bottom: 250px;
+
+}
+.halfwidth img{
+    width: 100%;
+}
+.head{
+    background-image: url("header-bg.png");
+    background-repeat: no-repeat;
+    background-position: inherit;
+    overflow: hidden;
+}
+.biography{
+    background-image: url("biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    overflow: hidden;
+}
+.head{
+    height: 500px;
+}
+.biography{
+    height: 500px;
+}
+.recent{
+    text-align: center;
+}
+.port{
+    width: 25%;
+    margin-top: 2%;
+    margin-left: 7%;
+    float: left;
+    padding-bottom: 10%;
+    background-image: url("latest-work-bg.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    overflow: hidden;
+}
+.port img{
+    width: 100%;
+}
+.work{
+    height: 200px;
+}
+.foot{
+    text-align: center;
+}
+.last{
+    color: rgb(43, 43, 39);
+    background-color: hotpink;
+}
+.foot{
+    padding: 5%;
+}
+
+
+
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(to right,rgb(248, 125, 176),rgb(247, 28, 181));
+    padding: 10px 20px;
+    border-radius: 4px;
+    color: white;
+    font-weight: 800;
+}

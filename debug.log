@@ -1,0 +1,14 @@
+[0701/124331.790:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: The system cannot find the path specified. (0x3)
+[0701/124331.933:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0701/124331.935:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: The system cannot find the path specified. (0x3)
+[0701/135947.558:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: The system cannot find the path specified. (0x3)
+[0701/135947.571:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0701/135947.575:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0701/135947.577:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: The system cannot find the path specified. (0x3)
+[0701/142728.637:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: The system cannot find the path specified. (0x3)
+[0701/142728.641:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0701/142728.667:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0701/142728.669:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: The system cannot find the path specified. (0x3)
+[0701/183751.408:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: The system cannot find the path specified. (0x3)
+[0701/183751.453:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0701/183751.455:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Program Files (x86)\Goldleaf\Reports\Dump: The system cannot find the path specified. (0x3)
